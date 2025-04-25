@@ -17,6 +17,15 @@
  */
 define("PI", 3.1416);
 
+
+/**
+ * Constante 'miConstante' para verificar los cambios
+ *
+ * @const una constante de prueba que vale el literal 100
+ */
+define("miConstante", 100);
+
+
 /**
  * Calcula el área de un círculo.
  *
